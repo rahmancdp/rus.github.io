@@ -15,7 +15,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Rus"
+title                    : "Rusan"
 title_separator          : "-"
 name                     : "Ruslan Magana Vsevolodovna"
 description              : "Personal website of Ruslan Magana. We talk about Cloud Data Science, Public Speaking and Community."
@@ -35,7 +35,7 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), 
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
   branch                 : # "master"
