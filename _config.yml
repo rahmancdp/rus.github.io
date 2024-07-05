@@ -15,13 +15,13 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Rusan"
+title                    : "Ruslan Magana Vsevolodovna"
 title_separator          : "-"
 name                     : "Ruslan Magana Vsevolodovna"
 description              : "Personal website of Ruslan Magana. We talk about Cloud Data Science, Public Speaking and Community."
 url                      : "https://rahmancdp.github.io"
 # baseurl                  : "/"
-repository               : "rahmancdp/rus.github.io"
+repository               : "ruslanmv/ruslanmv.github.io"
 teaser                   : "assets/images/og_default_header.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 220
